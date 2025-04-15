@@ -1,0 +1,18 @@
+{
+  "name": "note-app",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "Simple Restful API Sederhana Note App",
+  "dependencies": {
+    "express": "^5.1.0",
+    "uuid": "^11.1.0"
+  }
+}
